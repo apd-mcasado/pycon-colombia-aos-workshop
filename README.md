@@ -41,3 +41,15 @@ To access it, you’ll need a Databricks Free Edition account. Below are the ins
 4. You should have access to databricks now: 
     
     ![Databricks](./images/9.png)
+_______________
+### Clone Repo
+Follow these steps once you have a Databricks Free Edition Account.
+
+1. In your Workspace, click on **Create** and **Git Folder**:
+
+![Workspace](./images/10.png)
+
+2. Paste the following link https://github.com/apd-mcasado/pycon-colombia-aos-workshop at **Git Repository URL**: 
+
+![repo](./images/11.png)
+3. Click **Create Git Folder**
